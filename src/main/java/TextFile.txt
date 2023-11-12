@@ -1,0 +1,2 @@
+Exception is an unexpected issue.
+Some exceptions can be handled some can not.
